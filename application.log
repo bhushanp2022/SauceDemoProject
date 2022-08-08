@@ -1,0 +1,188 @@
+2022-08-07 19:16:11,055  INFO [TestNG-test=Test-1] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-07 19:16:11,051  INFO [TestNG-test=Test-5] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-07 19:16:11,042  INFO [TestNG-test=Test-4] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-07 19:16:11,078  INFO [TestNG-test=Test-2] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-07 19:16:11,110  INFO [TestNG-test=Test-3] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-07 19:16:11,345  INFO [TestNG-test=Test-1] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-07 19:16:11,382  INFO [TestNG-test=Test-4] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-07 19:16:11,545  INFO [TestNG-test=Test-2] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-07 19:16:11,545  INFO [TestNG-test=Test-3] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-07 19:16:11,585  INFO [TestNG-test=Test-5] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-07 19:16:13,912  INFO [TestNG-test=Test-1] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-07 19:16:13,917  INFO [TestNG-test=Test-4] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-07 19:16:13,956  INFO [TestNG-test=Test-5] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-07 19:16:13,956  INFO [TestNG-test=Test-2] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-07 19:16:13,959  INFO [TestNG-test=Test-3] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-07 19:16:14,102  INFO [TestNG-test=Test-3] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-07 19:16:14,114  INFO [TestNG-test=Test-5] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-07 19:16:14,122  INFO [TestNG-test=Test-2] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-07 19:16:14,144  INFO [TestNG-test=Test-1] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-07 19:16:14,160  INFO [TestNG-test=Test-4] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-07 19:16:14,198  INFO [TestNG-test=Test-3] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-07 19:16:14,211  INFO [TestNG-test=Test-5] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-07 19:16:14,217  INFO [TestNG-test=Test-2] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-07 19:16:14,250  INFO [TestNG-test=Test-1] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-07 19:16:14,267  INFO [TestNG-test=Test-4] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-07 19:16:14,357  INFO [TestNG-test=Test-3] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-07 19:16:14,358  INFO [TestNG-test=Test-3] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-07 19:16:14,381  INFO [TestNG-test=Test-2] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-07 19:16:14,382  INFO [TestNG-test=Test-2] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-07 19:16:14,394  INFO [TestNG-test=Test-5] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-07 19:16:14,395  INFO [TestNG-test=Test-5] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-07 19:16:14,424  INFO [TestNG-test=Test-1] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-07 19:16:14,425  INFO [TestNG-test=Test-1] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-07 19:16:14,438  INFO [TestNG-test=Test-4] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-07 19:16:14,439  INFO [TestNG-test=Test-4] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-07 19:16:16,898  INFO [TestNG-test=Test-1] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-07 19:16:17,500  INFO [TestNG-test=Test-5] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-07 19:16:17,747  INFO [TestNG-test=Test-4] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-07 19:16:17,775  INFO [TestNG-test=Test-2] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-07 19:16:22,256  INFO [TestNG-test=Test-3] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-07 19:23:09,904  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-07 19:23:10,035  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-07 19:23:11,781  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-07 19:23:12,016  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-07 19:23:12,094  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-07 19:23:12,201  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-07 19:23:12,202  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-07 19:23:14,461  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-07 19:23:15,415  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-07 19:23:15,554  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-07 19:23:16,874  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-07 19:23:16,991  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-07 19:23:17,071  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-07 19:23:17,197  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-07 19:23:17,198  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-07 19:23:20,209  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-07 19:23:20,990  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-07 19:23:21,130  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-07 19:23:22,229  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-07 19:23:22,350  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-07 19:23:22,442  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-07 19:23:22,582  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-07 19:23:22,583  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-07 19:23:30,426  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-07 19:23:31,270  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-07 19:23:31,402  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-07 19:23:32,516  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-07 19:23:32,628  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-07 19:23:32,726  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-07 19:23:32,881  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-07 19:23:32,881  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-07 19:23:35,732  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-07 19:23:36,782  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-07 19:23:36,918  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-07 19:23:38,001  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-07 19:23:38,111  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-07 19:23:38,203  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-07 19:23:38,338  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-07 19:23:38,338  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-07 19:23:40,810  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-07 19:37:27,575  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-07 19:37:27,715  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-07 19:37:28,712  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-07 19:37:28,854  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-07 19:37:28,946  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-07 19:37:29,076  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-07 19:37:29,076  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-07 19:37:31,107  INFO [main] SauceDemoMavenProjectt:24 - Applying The Validation
+2022-08-07 19:37:31,366  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-07 19:37:32,105  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-07 19:37:32,243  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-07 19:37:33,243  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-07 19:37:33,354  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-07 19:37:33,445  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-07 19:37:33,573  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-07 19:37:33,574  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-07 19:37:35,834  INFO [main] SauceDemoMavenProjectt:23 - Click on Setting button
+2022-08-07 19:37:35,979  INFO [main] SauceDemoMavenProjectt:25 - Click on Logout Button
+2022-08-07 19:37:36,235  INFO [main] SauceDemoMavenProjectt:27 - ScreenShot Taken
+2022-08-07 19:37:36,236  INFO [main] SauceDemoMavenProjectt:29 - Applying Validation
+2022-08-07 19:37:36,511  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-07 19:37:37,215  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-07 19:37:37,340  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-07 19:37:38,426  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-07 19:37:38,535  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-07 19:37:38,622  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-07 19:37:38,729  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-07 19:37:38,729  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-07 19:37:45,850  INFO [main] SauceDemoMavenProjectt:24 - Clicked on BagAddToCart Button
+2022-08-07 19:37:46,247  INFO [main] SauceDemoMavenProjectt:26 - ScreenShot Taken
+2022-08-07 19:37:46,247  INFO [main] SauceDemoMavenProjectt:28 - Applying Validation
+2022-08-07 19:37:46,500  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-07 19:37:47,233  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-07 19:37:47,369  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-07 19:37:48,504  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-07 19:37:48,611  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-07 19:37:48,690  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-07 19:37:48,806  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-07 19:37:48,806  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-07 19:37:51,115  INFO [main] SauceDemoMavenProjectt:21 - Click On All products
+2022-08-07 19:37:51,474  INFO [main] SauceDemoMavenProjectt:23 - ScreenShot Taken
+2022-08-07 19:37:51,474  INFO [main] SauceDemoMavenProjectt:25 - Applying Validation
+2022-08-07 19:37:51,687  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-07 19:37:52,427  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-07 19:37:52,547  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-07 19:37:53,436  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-07 19:37:53,550  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-07 19:37:53,648  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-07 19:37:53,779  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-07 19:37:53,780  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-07 19:37:55,959  INFO [main] SauceDemoMavenProjectt:18 - User Clicked on DropDown and Selected An option
+2022-08-07 19:37:56,251  INFO [main] SauceDemoMavenProjectt:20 - ScreenShot Taken
+2022-08-07 19:37:56,251  INFO [main] SauceDemoMavenProjectt:22 - Apply Validation
+2022-08-07 19:37:56,478  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-08 18:32:01,826  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-08 18:32:01,951  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-08 18:32:03,247  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-08 18:32:03,400  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-08 18:32:03,485  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-08 18:32:03,589  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-08 18:32:03,589  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-08 18:32:05,627  INFO [main] SauceDemoMavenProjectt:24 - Applying The Validation
+2022-08-08 18:32:05,912  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-08 18:32:06,667  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-08 18:32:06,811  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-08 18:32:07,829  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-08 18:32:07,948  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-08 18:32:08,037  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-08 18:32:08,161  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-08 18:32:08,161  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-08 18:32:10,331  INFO [main] SauceDemoMavenProjectt:23 - Click on Setting button
+2022-08-08 18:32:10,496  INFO [main] SauceDemoMavenProjectt:25 - Click on Logout Button
+2022-08-08 18:32:10,851  INFO [main] SauceDemoMavenProjectt:27 - ScreenShot Taken
+2022-08-08 18:32:10,851  INFO [main] SauceDemoMavenProjectt:29 - Applying Validation
+2022-08-08 18:32:11,057  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-08 18:32:11,781  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-08 18:32:11,925  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-08 18:32:13,291  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-08 18:32:13,455  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-08 18:32:13,532  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-08 18:32:13,649  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-08 18:32:13,649  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-08 18:32:20,838  INFO [main] SauceDemoMavenProjectt:24 - Clicked on BagAddToCart Button
+2022-08-08 18:32:21,215  INFO [main] SauceDemoMavenProjectt:26 - ScreenShot Taken
+2022-08-08 18:32:21,215  INFO [main] SauceDemoMavenProjectt:28 - Applying Validation
+2022-08-08 18:32:21,504  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-08 18:32:22,236  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-08 18:32:22,367  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-08 18:32:23,462  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-08 18:32:23,578  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-08 18:32:23,666  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-08 18:32:23,784  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-08 18:32:23,784  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-08 18:32:26,100  INFO [main] SauceDemoMavenProjectt:21 - Click On All products
+2022-08-08 18:32:26,461  INFO [main] SauceDemoMavenProjectt:23 - ScreenShot Taken
+2022-08-08 18:32:26,462  INFO [main] SauceDemoMavenProjectt:25 - Applying Validation
+2022-08-08 18:32:26,692  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-08-08 18:32:27,408  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-08-08 18:32:27,537  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-08-08 18:32:28,882  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-08-08 18:32:29,035  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-08-08 18:32:29,120  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-08-08 18:32:29,228  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-08-08 18:32:29,229  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-08-08 18:32:31,422  INFO [main] SauceDemoMavenProjectt:18 - User Clicked on DropDown and Selected An option
+2022-08-08 18:32:31,618  INFO [main] SauceDemoMavenProjectt:20 - ScreenShot Taken
+2022-08-08 18:32:31,618  INFO [main] SauceDemoMavenProjectt:22 - Apply Validation
+2022-08-08 18:32:31,836  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
