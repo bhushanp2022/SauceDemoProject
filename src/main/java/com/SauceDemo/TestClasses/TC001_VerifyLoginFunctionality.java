@@ -17,10 +17,12 @@ import com.SauceDemo.UtilityClasses.ScreenShotClass;
 
 public class TC001_VerifyLoginFunctionality extends TestBaseClass{
   
+
    @Test    
    public void loginFunctionality() {
 			   //Goes to Home page
 			   //validation 
+	   
 			   log.info("Applying The Validation");
 			   String ExpectedTitle="Swag Labs";
 			   String ActualTitle=driver.getTitle();

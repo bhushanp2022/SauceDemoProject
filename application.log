@@ -186,3 +186,57 @@
 2022-08-08 18:32:31,618  INFO [main] SauceDemoMavenProjectt:20 - ScreenShot Taken
 2022-08-08 18:32:31,618  INFO [main] SauceDemoMavenProjectt:22 - Apply Validation
 2022-08-08 18:32:31,836  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-09-14 17:40:42,692  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-09-14 17:40:42,703  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-09-14 17:40:44,173  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-09-14 17:40:44,374  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-09-14 17:40:44,411  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-09-14 17:40:44,725  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-09-14 17:40:44,725  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-09-14 17:40:46,756  INFO [main] SauceDemoMavenProjectt:26 - Applying The Validation
+2022-09-14 17:40:47,772  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-09-14 17:40:50,581  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-09-14 17:40:50,581  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-09-14 17:40:51,523  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-09-14 17:40:51,601  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-09-14 17:40:51,632  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-09-14 17:40:51,899  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-09-14 17:40:51,899  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-09-14 17:40:54,224  INFO [main] SauceDemoMavenProjectt:23 - Click on Setting button
+2022-09-14 17:40:54,490  INFO [main] SauceDemoMavenProjectt:25 - Click on Logout Button
+2022-09-14 17:40:54,616  INFO [main] SauceDemoMavenProjectt:27 - ScreenShot Taken
+2022-09-14 17:40:54,616  INFO [main] SauceDemoMavenProjectt:29 - Applying Validation
+2022-09-14 17:40:55,591  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-09-14 17:40:58,369  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-09-14 17:40:58,369  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-09-14 17:41:00,231  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-09-14 17:41:00,425  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-09-14 17:41:00,504  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-09-14 17:41:00,773  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-09-14 17:41:00,774  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-09-14 17:41:08,083  INFO [main] SauceDemoMavenProjectt:24 - Clicked on BagAddToCart Button
+2022-09-14 17:41:08,272  INFO [main] SauceDemoMavenProjectt:26 - ScreenShot Taken
+2022-09-14 17:41:08,272  INFO [main] SauceDemoMavenProjectt:28 - Applying Validation
+2022-09-14 17:41:09,104  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-09-14 17:41:11,896  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-09-14 17:41:11,896  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-09-14 17:41:12,887  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-09-14 17:41:13,031  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-09-14 17:41:13,075  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-09-14 17:41:13,341  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-09-14 17:41:13,341  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-09-14 17:41:16,844  INFO [main] SauceDemoMavenProjectt:21 - Click On All products
+2022-09-14 17:41:17,116  INFO [main] SauceDemoMavenProjectt:23 - ScreenShot Taken
+2022-09-14 17:41:17,116  INFO [main] SauceDemoMavenProjectt:25 - Applying Validation
+2022-09-14 17:41:18,075  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
+2022-09-14 17:41:20,898  INFO [main] SauceDemoMavenProjectt:41 - Browser is opened
+2022-09-14 17:41:20,898  INFO [main] SauceDemoMavenProjectt:43 - Browser is Maximized
+2022-09-14 17:41:22,170  INFO [main] SauceDemoMavenProjectt:45 - URL is opened
+2022-09-14 17:41:22,359  INFO [main] SauceDemoMavenProjectt:52 - Enter the Username
+2022-09-14 17:41:22,421  INFO [main] SauceDemoMavenProjectt:54 - Enter the password
+2022-09-14 17:41:22,688  INFO [main] SauceDemoMavenProjectt:56 - Click on LoginButton
+2022-09-14 17:41:22,688  INFO [main] SauceDemoMavenProjectt:57 - User Login Successfully
+2022-09-14 17:41:25,312  INFO [main] SauceDemoMavenProjectt:18 - User Clicked on DropDown and Selected An option
+2022-09-14 17:41:25,532  INFO [main] SauceDemoMavenProjectt:20 - ScreenShot Taken
+2022-09-14 17:41:25,532  INFO [main] SauceDemoMavenProjectt:22 - Apply Validation
+2022-09-14 17:41:26,508  INFO [main] SauceDemoMavenProjectt:66 - Browser Closed
