@@ -26,7 +26,7 @@ public class TestBaseClass {
 	  public void setUp(String BrowserName) throws IOException, InterruptedException {
 			
 		   if(BrowserName.equals("chrome")){System.setProperty("webdriver.chrome.driver",
-					"./Drivers/chromedriver.exe");
+					"./Drivers/chromedriver106.exe");
 					driver=new ChromeDriver();}
 					
 		   else if(BrowserName.equals("firefox")){ System.setProperty("webdriver.gecko.driver",
@@ -59,14 +59,14 @@ public class TestBaseClass {
 				  
 	   }
 	   
-	   @AfterMethod
-		public void tearDown() {		   
-				   //Close Browser
-				   driver.quit();
-				   log.info("Browser Closed");
-				   
-		}
-	   
+//	   @AfterMethod
+//		public void tearDown() {		   
+//				   //Close Browser
+//				   driver.quit();
+//				   log.info("Browser Closed");
+//				   
+//		}
+//	   
 	   
 	   
 

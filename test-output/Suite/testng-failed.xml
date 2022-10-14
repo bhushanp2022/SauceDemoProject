@@ -1,44 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="BrowserName" value="chrome"/>
   <test thread-count="5" name="Test(failed)">
-    <parameter name="BrowserName" value="chrome"/>
     <classes>
-      <class name="com.SauceDemo.TestClasses.TC004_VerifyAddtocartForMultipleProducts">
+      <class name="com.SauceDemo.TestClasses.TC006_VerifyCheckOutOption">
         <methods>
-          <include name="tearDown"/>
-          <include name="addtocartForMultipleProducts"/>
+          <include name="VerifyCheckoutButton"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- com.SauceDemo.TestClasses.TC004_VerifyAddtocartForMultipleProducts -->
-      <class name="com.SauceDemo.TestClasses.TC002_VerifyLogoutFunctionality">
-        <methods>
-          <include name="tearDown"/>
-          <include name="logoutFunctionality"/>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- com.SauceDemo.TestClasses.TC002_VerifyLogoutFunctionality -->
-      <class name="com.SauceDemo.TestClasses.TC005_VerifyFilterDropDownButton">
-        <methods>
-          <include name="tearDown"/>
-          <include name="filterDropDownMethod"/>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- com.SauceDemo.TestClasses.TC005_VerifyFilterDropDownButton -->
-      <class name="com.SauceDemo.TestClasses.TC003_VerifyAddTocartForOneProduct">
-        <methods>
-          <include name="verifyAddTocartForOneProduct"/>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- com.SauceDemo.TestClasses.TC003_VerifyAddTocartForOneProduct -->
-      <class name="com.SauceDemo.TestClasses.TC001_VerifyLoginFunctionality">
-        <methods>
-          <include name="tearDown"/>
-          <include name="loginFunctionality"/>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- com.SauceDemo.TestClasses.TC001_VerifyLoginFunctionality -->
+      </class> <!-- com.SauceDemo.TestClasses.TC006_VerifyCheckOutOption -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
